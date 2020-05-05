@@ -1,0 +1,40 @@
+{
+  "homepage": "https://minecraft.curseforge.com/projects/worldeditcui-forge-edition-2",
+  "promos": {
+    "1.15.2-latest"     : "3.0.0",
+    "1.15.2-recomended" : "3.0.0",
+    "1.14.4-latest"     : "3.0.0",
+    "1.14.4-recomended" : "3.0.0",
+    "1.13.2-latest"     : "3.0.0",
+    "1.13.2-recomended" : "3.0.0",
+    "1.12.2-latest"     : "3.0.0",
+    "1.12.2-recomended" : "3.0.0",
+    "1.11.2-latest"     : "3.0.0",
+    "1.11.2-recomended" : "3.0.0",
+    "1.10.2-latest"     : "3.0.0",
+    "1.10.2-recomended" : "3.0.0",
+    "1.9.4-latest"     : "3.0.0",
+    "1.9.4-recomended" : "3.0.0"
+  },
+  "1.15.2" : {
+    "3.0.0" : "First release for 1.15.2"
+  },
+  "1.14.4" : {
+    "3.0.0" : "First release for 1.14.4"
+  },
+  "1.13.2" : {
+    "3.0.0" : "First release for 1.13.2"
+  },
+  "1.12.2" : {
+    "3.0.0" : "First release for 1.12.2"
+  },
+  "1.11.2" : {
+    "3.0.0" : "First release for 1.11.2"
+  },
+  "1.10.2" : {
+    "3.0.0" : "First release for 1.10.2"
+  },
+  "1.9.4" : {
+    "3.0.0" : "First release for 1.9.4"
+  }
+}
