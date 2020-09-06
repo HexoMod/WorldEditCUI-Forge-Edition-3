@@ -32,7 +32,7 @@
 
 </br>![install](https://github.com/HexoMod/WorldEditCUI-Forge-Edition-3/raw/master/img/wecui_install.png "")
 </br>To install the mod:
-</br>Download the latest version of the [WorldEdit CUI Forge Edition 3](http://minecraft.curseforge.com/projects/worldeditcui-forge-edition-3/files) for you forge version and copy it to your mods folder.
+</br>Download the latest version of the [WorldEdit CUI Forge Edition 3](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-3/files) for you forge version and copy it to your mods folder.
 
 
 </br>![howto](https://github.com/HexoMod/WorldEditCUI-Forge-Edition-3/raw/master/img/wecui_howto.png "")
