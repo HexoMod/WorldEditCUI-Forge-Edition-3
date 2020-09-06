@@ -4,6 +4,8 @@
 
 </br>This mod provides a client-side user interface for the [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) allowing you to see your selected region in-game in real-time. It allows you to work more quickly and accurately with your [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) selection and is especially useful when working with Polygon, Convex Hull and Cylinder selections.
 
+**! ATTENTION !** : [WorldEditCUI Forge Edition 3](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-3) has no relation with [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) and does not include [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
+
 
 </br>![features](https://github.com/HexoMod/WorldEditCUI-Forge-Edition-3/raw/master/img/wecui_features.png "")
 </br>Display your [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) and [GriefDefender](https://www.spigotmc.org/resources/griefdefender.68900/) selection instantly in-game
