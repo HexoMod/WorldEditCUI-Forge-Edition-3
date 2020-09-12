@@ -1,5 +1,5 @@
 
-</br>![header](https://github.com/HexoMod/WorldEditCUI-Forge-Edition-3/raw/master/img/wecui_header.png "")
+</br>![header](https://github.com/HexoMod/WorldEditCUI-Forge-Edition-3/raw/master/img/wecui_banner.png "")
 
 
 </br>This mod provides a client-side user interface for the [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) allowing you to see your selected region in-game in real-time. It allows you to work more quickly and accurately with your [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) selection and is especially useful when working with Polygon, Convex Hull and Cylinder selections.
@@ -30,12 +30,12 @@
 </br>![](https://github.com/HexoMod/WorldEditCUI-Forge-Edition-3/raw/master/img/wecui_screenshot_07.png "")
 
 
-</br>![install](https://github.com/HexoMod/WorldEditCUI-Forge-Edition-3/raw/master/img/wecui_install.png "")
+</br>![install](https://github.com/HexoMod/WorldEditCUI-Forge-Edition-3/raw/master/img/wecui_how_to_install.png "")
 </br>To install the mod:
 </br>Download the latest version of the [WorldEdit CUI Forge Edition 3](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-3/files) for you forge version and copy it to your mods folder.
 
 
-</br>![howto](https://github.com/HexoMod/WorldEditCUI-Forge-Edition-3/raw/master/img/wecui_howto.png "")
+</br>![howto](https://github.com/HexoMod/WorldEditCUI-Forge-Edition-3/raw/master/img/wecui_how_to_use.png "")
 </br>To use **WorldEditCUI Forge Edition 3**, simply make a selection on a server using WorldEdit, your selection will be instantly displayed on the screen. To clear your current selection issue the command **//sel**
 
 
