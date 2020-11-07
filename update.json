@@ -1,33 +1,42 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-3",
   "promos": {
-    "1.16.3-latest"     : "3.0.7",
-    "1.16.3-recomended" : "3.0.7",
-    "1.16.2-latest"     : "3.0.7",
-    "1.16.2-recomended" : "3.0.6",
-    "1.15.2-latest"     : "3.0.6",
-    "1.15.2-recomended" : "3.0.6",
-    "1.14.4-latest"     : "3.0.6",
-    "1.14.4-recomended" : "3.0.6",
-    "1.13.2-latest"     : "3.0.6",
-    "1.13.2-recomended" : "3.0.6",
-    "1.12.2-latest"     : "3.0.6",
-    "1.12.2-recomended" : "3.0.6",
-    "1.11.2-latest"     : "3.0.6",
-    "1.11.2-recomended" : "3.0.6",
-    "1.10.2-latest"     : "3.0.6",
-    "1.10.2-recomended" : "3.0.6",
-    "1.9.4-latest"      : "3.0.6",
-    "1.9.4-recomended"  : "3.0.6"
+    "1.16.4-latest"     : "3.0.8",
+    "1.16.4-recomended" : "3.0.8",
+    "1.16.3-latest"     : "3.0.8",
+    "1.16.3-recomended" : "3.0.8",
+    "1.16.2-latest"     : "3.0.8",
+    "1.16.2-recomended" : "3.0.8",
+    "1.15.2-latest"     : "3.0.8",
+    "1.15.2-recomended" : "3.0.8",
+    "1.14.4-latest"     : "3.0.8",
+    "1.14.4-recomended" : "3.0.8",
+    "1.13.2-latest"     : "3.0.8",
+    "1.13.2-recomended" : "3.0.8",
+    "1.12.2-latest"     : "3.0.8",
+    "1.12.2-recomended" : "3.0.8",
+    "1.11.2-latest"     : "3.0.8",
+    "1.11.2-recomended" : "3.0.8",
+    "1.10.2-latest"     : "3.0.8",
+    "1.10.2-recomended" : "3.0.8",
+    "1.9.4-latest"      : "3.0.8",
+    "1.9.4-recomended"  : "3.0.8"
+  },
+  "1.16.4" : {
+    "3.0.8" : "Added support to 1.16.4"
   },
   "1.16.3" : {
+    "3.0.8" : "Framework update",
     "3.0.7" : "Added support to 1.16.3"
   },
   "1.16.2" : {
+    "3.0.8" : "Framework update",
     "3.0.7" : "Added support to 1.16.3",
     "3.0.6" : "Framework update to 1.16.2"
   },
   "1.15.2" : {
+    "3.0.8" : "Framework update",
+    "3.0.7" : "Framework update",
     "3.0.6" : "Framework update",
     "3.0.5" : "Added Chinese translation from noptia + bug fix",
     "3.0.4" : "Added GriefDefender multi selections support",
@@ -36,6 +45,8 @@
     "3.0.0" : "First release for 1.15.2"
   },
   "1.14.4" : {
+    "3.0.8" : "Framework update",
+    "3.0.7" : "Framework update",
     "3.0.6" : "Framework update",
     "3.0.5" : "Added Chinese translation from noptia + bug fix",
     "3.0.4" : "Added GriefDefender multi selections support",
@@ -44,6 +55,8 @@
     "3.0.0" : "First release for 1.14.4"
   },
   "1.12.2" : {
+    "3.0.8" : "Framework update",
+    "3.0.7" : "Framework update",
     "3.0.6" : "Framework update",
     "3.0.5" : "Added Chinese translation from noptia + bug fix",
     "3.0.4" : "Added GriefDefender multi selections support",
@@ -52,6 +65,8 @@
     "3.0.0" : "First release for 1.12.2"
   },
   "1.11.2" : {
+    "3.0.8" : "Framework update",
+    "3.0.7" : "Framework update",
     "3.0.6" : "Framework update",
     "3.0.5" : "Added Chinese translation from noptia + bug fix",
     "3.0.4" : "Added GriefDefender multi selections support",
@@ -60,6 +75,8 @@
     "3.0.0" : "First release for 1.11.2"
   },
   "1.10.2" : {
+    "3.0.8" : "Framework update",
+    "3.0.7" : "Framework update",
     "3.0.6" : "Framework update",
     "3.0.5" : "Added Chinese translation from noptia + bug fix",
     "3.0.4" : "Added GriefDefender multi selections support",
@@ -68,6 +85,8 @@
     "3.0.0" : "First release for 1.10.2"
   },
   "1.9.4" : {
+    "3.0.8" : "Framework update",
+    "3.0.7" : "Framework update",
     "3.0.6" : "Framework update",
     "3.0.5" : "Added Chinese translation from noptia + bug fix",
     "3.0.4" : "Added GriefDefender multi selections support",
